@@ -12,7 +12,7 @@ Below is a preview of the Tableau dashboard created for this project:
 ![AI Job Market Dashboard](job-market-dashboard.png)
 ---
 
-# 🚀 Project Overview
+## 🚀 Project Overview
 
 The purpose of this project was to transform raw job posting data into meaningful business insights using Tableau and data storytelling techniques.
 
@@ -27,7 +27,7 @@ This project was completed as part of the **DataWorks Data Visualization Challen
 
 ---
 
-# 🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 - 📈 Tableau
 - 📄 Microsoft Excel / CSV
@@ -37,9 +37,9 @@ This project was completed as part of the **DataWorks Data Visualization Challen
 
 ---
 
-# 📌 Dashboard Questions & Analysis
+## 📌 Dashboard Questions & Analysis
 
-## 💰 1. Highest Paying Jobs Based on Experience
+### 💰 1. Highest Paying Jobs Based on Experience
 
 - Calculated the average salary for each job title across different experience levels
 - Identified the top 3 highest-paying job titles within each experience category
@@ -53,7 +53,7 @@ This project was completed as part of the **DataWorks Data Visualization Challen
 
 ---
 
-## 🏢 2. Industries with the Most Job Opportunities
+### 🏢 2. Industries with the Most Job Opportunities
 
 - Identified the Top 5 industries with the highest number of job postings
 - Found the top 3 companies with the most vacancies within those industries
@@ -98,7 +98,7 @@ This project was completed as part of the **DataWorks Data Visualization Challen
 
 ---
 
-# ✨ Dashboard Features
+## ✨ Dashboard Features
 
 ✅ Interactive Tableau visualizations  
 ✅ Colorful and user-friendly design  
@@ -109,7 +109,7 @@ This project was completed as part of the **DataWorks Data Visualization Challen
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```text
 ai-job-markets-dashboard-data-analysis/
@@ -128,7 +128,7 @@ ai-job-markets-dashboard-data-analysis/
 
 ---
 
-# 🗂️ Dataset
+## 🗂️ Dataset
 
 The dataset includes information related to AI and technology job postings such as:
 
@@ -142,7 +142,7 @@ The dataset includes information related to AI and technology job postings such 
 
 ---
 
-# 📚 Learning Outcomes
+## 📚 Learning Outcomes
 
 Through this project, I improved my skills in:
 
@@ -155,13 +155,13 @@ Through this project, I improved my skills in:
 
 ---
 
-# 📝 Notes
+## 📝 Notes
 
 If opening the Tableau workbook locally, you may need to reconnect the CSV dataset path.
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I am a Computer Science student passionate about:
 
